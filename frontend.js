@@ -1,4 +1,4 @@
-const apiUrl = 'https://your-backend.herokuapp.com/api'; // Replace with your Heroku backend URL
+const apiUrl = 'https://attendancebackend1.onrender.com/'; // Replace with your Heroku backend URL
 
 async function addRow() {
     var table = document.getElementById("attendanceTable").getElementsByTagName('tbody')[0];
